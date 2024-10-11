@@ -6,7 +6,7 @@ This project is a simple proof of concept (POC) to create a basic voting system.
 The goal is to create a straightforward voting environment that covers both the front-end user interaction and back-end data handling, keeping everything simple and functional for learning and practice purposes.
 
 ## Project Goals
-We will focus on the following objectives, which will guide us step by step towards the completion of this POC:
+Focus on the following objectives, which will guide us step by step towards the completion of this POC:
 
 ### Features Checklist:
 - [ ] **Set up project structure** (folders for front-end and back-end)
