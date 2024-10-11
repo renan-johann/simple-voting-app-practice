@@ -9,19 +9,19 @@ The goal is to create a straightforward voting environment that covers both the 
 Focus on the following objectives, which will guide us step by step towards the completion of this POC:
 
 ### Features Checklist:
-- [ ] **Set up project structure** (folders for front-end and back-end)
-- [ ] **Create a simple front-end interface using HTML and Bootstrap**:
+- [ x ] **Set up project structure** (folders for front-end and back-end)
+- [ x ] **Create a simple front-end interface using HTML and Bootstrap**:
   - Number pad for entering the vote
   - Buttons for "Correct" and "Confirm"
   - A display for showing vote status (e.g., invalid, confirmed)
-- [ ] **Implement the front-end logic using JavaScript**:
+- [ x ] **Implement the front-end logic using JavaScript**:
   - Capture number input
   - Enable correction of input before confirmation
   - Send vote to back-end when "Confirm" is pressed
-- [ ] **Set up a basic Node.js server with Express**:
+- [ x ] **Set up a basic Node.js server with Express**:
   - Handle vote submission through a RESTful API
   - Store votes in a JSON file for simplicity
-- [ ] **Integrate front-end and back-end**:
+- [ x ] **Integrate front-end and back-end**:
   - Connect the front-end to the back-end API for submitting and storing votes
   - Display vote counts in real time or after submission
 - [ ] **Optional: Implement basic error handling and feedback**:
